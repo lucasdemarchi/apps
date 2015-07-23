@@ -4,5 +4,7 @@
 /.config
 /.depend
 /*.lib
+/**/*.o
+/**/*.a
 /romfs.img
 /boot_romfsimg.h
